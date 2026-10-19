@@ -1,4 +1,13 @@
-# EMITS
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="EMITS@2x (1).png">
+    <img alt="EMITS" src="EMITS@2x (1).png" width="480">
+  </picture>
+</p>
+
+---
+<br>
+
 [![bioconda downloads](https://img.shields.io/conda/dn/bioconda/emits.svg?label=bioconda%20downloads)](https://anaconda.org/bioconda/emits)
 [![CI](https://github.com/ayobi/emits/actions/workflows/ci.yml/badge.svg)](https://github.com/ayobi/emits/actions/workflows/ci.yml)
 [![Release](https://github.com/ayobi/emits/actions/workflows/release.yml/badge.svg)](https://github.com/ayobi/emits/actions/workflows/release.yml)
