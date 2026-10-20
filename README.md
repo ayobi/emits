@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="EMITS@2x (1).png">
-    <img alt="EMITS" src="EMITS@2x (1).png" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="emits-logo-dark.png">
+    <img alt="EMITS" src="emits-logo-dark.png" width="480">
   </picture>
 </p>
 
